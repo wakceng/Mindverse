@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MindVerse - 抑郁症患者模拟系统
 
 一个简洁、高效的抑郁症患者行为模拟系统，基于大语言模型(LLM)生成符合不同抑郁程度特征的文本内容。
@@ -141,3 +142,7 @@ print(response)
 ---
 
 💡 **提示**：首次使用时建议运行 `source set_model.sh && python quick_test.py` 验证配置。
+=======
+# Mindverse
+The code is coming
+>>>>>>> 668ee83bf64a97188ee8a4eadd03accc9a14679b
